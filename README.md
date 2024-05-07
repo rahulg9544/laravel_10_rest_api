@@ -1,0 +1,1 @@
+https://onlinewebtutorblog.com/laravel-10-restful-apis-with-jwt-authentication/
